@@ -1,3 +1,7 @@
+*{
+    background-color: rgb(234, 234, 234);
+    overflow-x: hidden
+}
 .navbar{
     height: 100px;
 }
@@ -7,3 +11,16 @@
 .card-deck{
     margin-bottom: 25px;
 }
+.item{
+margin-bottom: 25px;}
+footer{
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #262626;
+    color: white;
+    text-align: center;
+}
+.myfooter{
+    background-color: #262626;}
+    
